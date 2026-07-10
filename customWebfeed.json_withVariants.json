@@ -29,6 +29,13 @@
           "in_stock": "2",
           "compare_price": "270.00 GBP",
           "color": "new & nice"
+        },
+        {
+          "id": "CC-01-V3",
+          "price": "176.00 GBP",
+          "in_stock": "2",
+          "compare_price": "270.00 GBP",
+          "color": "black&nice"
         }
       ]
     },
