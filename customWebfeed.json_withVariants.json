@@ -11,30 +11,30 @@
       "variants": [
         {
           "id": "CC-01-V1",
-          "price": "125.00 GBP",
+          "price": "45.00 GBP",
           "in_stock": "2",
-          "compare_price": "250.00 GBP",
+          "compare_price": "30.00 GBP",
           "color": "polished"
         },
         {
           "id": "CC-01-V2",
-          "price": "130.00 GBP",
+          "price": "45.00 GBP",
           "in_stock": "2",
-          "compare_price": "300.00 GBP",
+          "compare_price": "355.00 GBP",
           "color": "newcolor"
         },
         {
           "id": "CC-01-V3",
-          "price": "135.00 GBP",
+          "price": "60.00 GBP",
           "in_stock": "2",
-          "compare_price": "270.00 GBP",
+          "compare_price": "0.00 GBP",
           "color": "new & nice"
         },
         {
           "id": "CC-01-V3",
-          "price": "176.00 GBP",
+          "price": "78.00 GBP",
           "in_stock": "2",
-          "compare_price": "270.00 GBP",
+          "compare_price": "",
           "color": "black&nice"
         }
       ]
@@ -47,8 +47,8 @@
       "variants": [
         {
           "id": "CC-02-V1",
-          "price": "400.00 GBP",
-          "compare_price": "600.00 GBP",
+          "price": "90.00 GBP",
+          "compare_price": "90.00 GBP",
           "in_stock": "2",
           "color": "323&56"
         },
