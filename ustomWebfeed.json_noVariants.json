@@ -1,0 +1,65 @@
+[
+  {
+    "id": "TEST-01",
+    "Product Name": "test Aeroflow Bike Pump Mini Pro",
+    "Description": "test Aeroflow Bike Pump Mini Pro description",
+    "Price": "45.00 GBP",
+    "Compare Price": "30.00 GBP",
+    "Available": "2",
+    "Color": "polished"
+  },
+  {
+    "id": "TEST-02",
+    "Product Name": "test Gripton Pedal Straps Elite",
+    "Description": "test Gripton Pedal Straps Elite description",
+    "Price": "45.00 GBP",
+    "Compare Price": "355.00 GBP",
+    "Available": "2",
+    "Color": "testColor13"
+  },
+  {
+    "id": "TEST-03",
+    "Product Name": "test FrameX Adjustable Support Bar",
+    "Description": "test FrameX Adjustable Support Bar description",
+    "Price": "60.00 GBP",
+    "Compare Price": "0.00 GBP",
+    "Available": "2",
+    "Color": "Black & Gold"
+  },
+  {
+    "id": "TEST-04",
+    "Product Name": "test GearFix Pro Adjustment Tool",
+    "Description": "GearFix Pro Adjustment Tool description",
+    "Price": "78.00 GBP",
+    "Compare Price": "-",
+    "Available": "2",
+    "Color": "Black&Smoke"
+  },
+  {
+    "id": "TEST-05",
+    "Product Name": "test NightPulse LED Bike Light",
+    "Description": "test NightPulse LED Bike Light description",
+    "Price": "90.00 GBP",
+    "Compare Price": "90.00 GBP",
+    "Available": "2",
+    "Color": "323iiiii&56"
+  },
+  {
+    "id": "TEST-06",
+    "Product Name": "test Compact Alloy Bicycle Pump S-100",
+    "Description": "test Compact Alloy Bicycle Pump S-100 description",
+    "Price": "160.00 GBP",
+    "Compare Price": "260.00 GBP",
+    "Available": "2",
+    "Color": "II*(*(9900"
+  },
+    {
+    "id": "TEST-07",
+    "Product Name": "test Compact Alloy Bicycle Pump S-100",
+    "Description": "test Compact Alloy Bicycle Pump S-100 description",
+    "Price": "160.00 GBP",
+    "Compare Price": "260.00 GBP",
+    "Available": "2",
+    "Color": "II*(*(9900"
+  }
+]
