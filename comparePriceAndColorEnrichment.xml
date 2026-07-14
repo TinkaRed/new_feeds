@@ -1,0 +1,77 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>priceCheck_noVAR xml</title>
+    <description>priceCheck_noVAR xml</description>
+
+  <item>
+    <g:id>QA-01</g:id>
+    <g:title>test High Pressure Bike Pump</g:title>
+    <g:description>test High Pressure Bike Pump description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>45.00 GBP</g:price>
+    <g:compare_price>30.00 GBP</g:compare_price>
+    <g:color>polished</g:color>
+  </item>
+
+  <item>
+    <g:id>QA-02</g:id>
+    <g:title>test Heavy Duty Bike Lock</g:title>
+    <g:description>test Heavy Duty Bike Lock description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>45.00 GBP</g:price>
+    <g:compare_price>355.00 GBP</g:compare_price>
+    <g:color>testColor14</g:color>
+  </item>
+
+  <item>
+    <g:id>QA-03</g:id>
+    <g:title>test USB Rechargeable Bike Light</g:title>
+    <g:description>test USB Rechargeable Bike Light description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>60.00 GBP</g:price>
+    <g:compare_price>0.00 GBP</g:compare_price>
+    <g:color>Black & Pearl</g:color>
+  </item>
+
+  <item>
+    <g:id>QA-04</g:id>
+    <g:title>test Adjustable Bicycle Phone Mount</g:title>
+    <g:description>test Adjustable Bicycle Phone Mount description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>78.00 GBP</g:price>
+    <g:compare_price></g:compare_price>
+    <g:color>Black&Crystal</g:color>
+  </item>
+
+  <item>
+    <g:id>QA-05</g:id>
+    <g:title>test Waterproof Bicycle Frame Bag</g:title>
+    <g:description>test Waterproof Bicycle Frame Bag description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>90.00 GBP</g:price>
+    <g:compare_price>90.00 GBP</g:compare_price>
+    <g:color>323rrr&56</g:color>
+  </item>
+
+  <item>
+    <g:id>QA-06</g:id>
+    <g:title>test Professional Cycling Safety Helmet</g:title>
+    <g:description>test Professional Cycling Safety Helmet description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>90.00 GBP</g:price>
+    <g:compare_price>190.00 GBP</g:compare_price>
+    <g:color>II*(*(9922</g:color>
+  </item>
+
+  <item>
+    <g:id>QA-07</g:id>
+    <g:title>test Kids Balance Training Bike</g:title>
+    <g:description>test Kids Balance Training Bike description</g:description>
+    <g:availability>2</g:availability>
+    <g:price>90.00 GBP</g:price>
+    <g:compare_price>190.00 GBP</g:compare_price>
+    <g:color></g:color>
+  </item>
+  
+</channel>
+</rss>
