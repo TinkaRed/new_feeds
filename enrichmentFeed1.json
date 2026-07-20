@@ -1,0 +1,93 @@
+{
+  "title": "product with sizeGuide, clothing_specs, technical_specs",
+  "link": "https://size3.io/",
+  "description": "product with sizeGuide, clothing_specs, technical_specs",
+  "products": [
+    {
+      "id": "SG-01",
+      "title": "product with sizeGuide, clothing_specs, technical_specs",
+      "description": "product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants",
+      "brand": "excellent",
+      "size_guide": [
+        { "product_size": "M" },
+        { "product_size": "L" },
+        { "product_size": "XL" }
+      ],
+      "clothing_specs": {
+        "length_M": "100 inch",
+        "length_L": "150 inch",
+        "length_XL": "200 inch"
+      },
+      "technical_specs": {
+        "frame_material": "Aluminum",
+        "brakes": "Hydraulic Disc"
+      },
+      "variants": [
+        {
+          "id": "SG-01-01",
+          "price": "145.00 GBP",
+          "in_stock": "2",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "SG-01-02",
+          "price": "148.00 GBP",
+          "in_stock": "1",
+          "color": "Red",
+          "size": "L"
+        },
+        {
+          "id": "SG-01-03",
+          "price": "130.00 GBP",
+          "in_stock": "1",
+          "color": "Gold",
+          "size": "XL"
+        }
+      ]
+    },
+    {
+      "id": "SG-02",
+      "title": "one more product with sizeGuide, clothing_specs, technical_specs",
+      "description": "product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants",
+      "brand": "excellent",
+      "size_guide": [
+        { "product_size": "M" },
+        { "product_size": "L" },
+        { "product_size": "XL" }
+      ],
+      "clothing_specs": {
+        "length_M": "100 inch",
+        "length_L": "150 inch",
+        "length_XL": "200 inch"
+      },
+      "technical_specs": {
+        "frame_material": "Aluminum",
+        "brakes": "Hydraulic Disc"
+      },
+      "variants": [
+        {
+          "id": "SG-02-01",
+          "price": "145.00 GBP",
+          "in_stock": "2",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "SG-02-02",
+          "price": "148.00 GBP",
+          "in_stock": "1",
+          "color": "Red",
+          "size": "L"
+        },
+        {
+          "id": "SG-02-03",
+          "price": "130.00 GBP",
+          "in_stock": "1",
+          "color": "Gold",
+          "size": "XL"
+        }
+      ]
+    }
+  ]
+}
