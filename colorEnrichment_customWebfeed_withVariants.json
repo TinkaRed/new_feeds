@@ -1,0 +1,72 @@
+{
+  "title": "colorEnrichment_customWebfeed_withVariants.json",
+  "link": "https://c12.io/",
+  "description": "colorEnrichment_customWebfeed_withVariants.json",
+  "products": [
+    {
+      "id": "CC-011",
+      "title": "test color Mountain Bike Trail Pro",
+      "description": "test Mountain Bike Trail Pro description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "CC-011-V1",
+          "price": "45.00 GBP",
+          "in_stock": "2",
+          "compare_price": "30.00 GBP",
+          "color": "polished"
+        },
+        {
+          "id": "CC-011-V2",
+          "price": "45.00 GBP",
+          "in_stock": "2",
+          "compare_price": "355.00 GBP",
+          "color": "newTestcolor"
+        },
+        {
+          "id": "CC-011-V3",
+          "price": "60.00 GBP",
+          "in_stock": "2",
+          "compare_price": "0.00 GBP",
+          "color": "white & nice"
+        },
+        {
+          "id": "CC-011-V3",
+          "price": "78.00 GBP",
+          "in_stock": "2",
+          "compare_price": "",
+          "color": "black&test"
+        }
+      ]
+    },
+    {
+      "id": "CC-021",
+      "title": "test color Urban City Commuter Bike",
+      "description": "test Urban City Commuter Bike description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "CC-021-V1",
+          "price": "90.00 GBP",
+          "compare_price": "90.00 GBP",
+          "in_stock": "2",
+          "color": "323&56"
+        },
+        {
+          "id": "CC-021-V2",
+          "price": "400.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "2",
+          "color": "111111"
+        },
+        {
+          "id": "CC-021-V3",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "2",
+          "color": ""
+        }
+      ]
+    }
+  ]
+}
