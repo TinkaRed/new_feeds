@@ -10,7 +10,7 @@
     <g:availability>2</g:availability>
     <g:price>45.00 GBP</g:price>
     <g:compare_price>30.00 GBP</g:compare_price>
-    <g:color>polished</g:color>
+    <g:color>red</g:color>
   </item>
 
   <item>
@@ -20,7 +20,7 @@
     <g:availability>2</g:availability>
     <g:price>45.00 GBP</g:price>
     <g:compare_price>355.00 GBP</g:compare_price>
-    <g:color>testColor14</g:color>
+    <g:color>green bright color</g:color>
   </item>
 
   <item>
@@ -30,47 +30,7 @@
     <g:availability>2</g:availability>
     <g:price>60.00 GBP</g:price>
     <g:compare_price>0.00 GBP</g:compare_price>
-    <g:color>Black & Pearl</g:color>
-  </item>
-
-  <item>
-    <g:id>QA-04</g:id>
-    <g:title>test Adjustable Bicycle Phone Mount</g:title>
-    <g:description>test Adjustable Bicycle Phone Mount description</g:description>
-    <g:availability>2</g:availability>
-    <g:price>78.00 GBP</g:price>
-    <g:compare_price></g:compare_price>
-    <g:color>Black&Crystal</g:color>
-  </item>
-
-  <item>
-    <g:id>QA-05</g:id>
-    <g:title>test Waterproof Bicycle Frame Bag</g:title>
-    <g:description>test Waterproof Bicycle Frame Bag description</g:description>
-    <g:availability>2</g:availability>
-    <g:price>90.00 GBP</g:price>
-    <g:compare_price>90.00 GBP</g:compare_price>
-    <g:color>323rrr&56</g:color>
-  </item>
-
-  <item>
-    <g:id>QA-06</g:id>
-    <g:title>test Professional Cycling Safety Helmet</g:title>
-    <g:description>test Professional Cycling Safety Helmet description</g:description>
-    <g:availability>2</g:availability>
-    <g:price>90.00 GBP</g:price>
-    <g:compare_price>190.00 GBP</g:compare_price>
-    <g:color>II*(*(9922</g:color>
-  </item>
-
-  <item>
-    <g:id>QA-07</g:id>
-    <g:title>test Kids Balance Training Bike</g:title>
-    <g:description>test Kids Balance Training Bike description</g:description>
-    <g:availability>2</g:availability>
-    <g:price>90.00 GBP</g:price>
-    <g:compare_price>190.00 GBP</g:compare_price>
-    <g:color></g:color>
+    <g:color>beige & light</g:color>
   </item>
   
 </channel>
