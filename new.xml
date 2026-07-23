@@ -1,0 +1,17 @@
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>colorEnrichment_googleShipping xml</title>
+    <description>colorEnrichment_googleShipping xml</description>
+
+  <item>
+    <g:id>QA1-019</g:id>
+    <g:title>new 23.07</g:title>
+    <g:description>new 23.07</g:description>
+    <g:availability>2</g:availability>
+    <g:price>45.00 GBP</g:price>
+    <g:compare_price>90.00 GBP</g:compare_price>
+    <g:color>red</g:color>
+  </item>
+
+</channel>
+</rss>
