@@ -10,7 +10,7 @@
     <g:availability>2</g:availability>
     <g:price>45.00 GBP</g:price>
     <g:compare_price>30.00 GBP</g:compare_price>
-    <g:color>polished</g:color>
+    <g:color>red</g:color>
   </item>
 
   <item>
@@ -18,19 +18,9 @@
     <g:title>test color Heavy Duty Bike Lock</g:title>
     <g:description>test Heavy Duty Bike Lock description</g:description>
     <g:availability>2</g:availability>
-    <g:price>45.00 GBP</g:price>
-    <g:compare_price>355.00 GBP</g:compare_price>
-    <g:color>testColor90</g:color>
-  </item>
-
-  <item>
-    <g:id>QA-03</g:id>
-    <g:title>test color USB Rechargeable Bike Light</g:title>
-    <g:description>test USB Rechargeable Bike Light description</g:description>
-    <g:availability>2</g:availability>
     <g:price>60.00 GBP</g:price>
-    <g:compare_price>0.00 GBP</g:compare_price>
-    <g:color>grape & Pearl</g:color>
+    <g:compare_price></g:compare_price>
+    <g:color>green bright color</g:color>
   </item>
 
   <item>
@@ -40,7 +30,7 @@
     <g:availability>2</g:availability>
     <g:price>78.00 GBP</g:price>
     <g:compare_price></g:compare_price>
-    <g:color></g:color>
+    <g:color>beige & light</g:color>
   </item>
 
 
