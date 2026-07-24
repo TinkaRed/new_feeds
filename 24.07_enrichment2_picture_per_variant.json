@@ -6,7 +6,7 @@
     {
       "id": "SG-01",
       "title": "per_variant picture - product with sizeGuide, clothing_specs, technical_specs",
-      "description": "product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants"
+      "description": "per_variant product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants"
       "brand": "testBrand",
       "size_guide": [
         { "product_size": "M" },
