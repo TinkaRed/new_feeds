@@ -1,0 +1,50 @@
+{
+  "title": "enrichment2",
+  "link": "https://size5.io/",
+  "description": "enrichment2",
+  "products": [
+    {
+      "id": "SG-01",
+      "title": "product with sizeGuide, clothing_specs, technical_specs",
+      "description": "product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants"
+      "brand": "testBrand",
+      "size_guide": [
+        { "product_size": "M" },
+        { "product_size": "L" },
+        { "product_size": "XL" }
+      ],
+      "clothing_specs": {
+        "length_M": "100 inch",
+        "length_L": "150 inch",
+        "length_XL": "200 inch"
+      },
+      "technical_specs": {
+        "frame_material": "Aluminum",
+        "brakes": "Hydraulic Disc"
+      },
+      "variants": [
+        {
+          "id": "SG-01-01",
+          "price": "45.00 GBP",
+          "in_stock": "2",
+          "color": "red",
+          "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6327f789e2aa01ca7db898df/0x0.png"
+        },
+        {
+          "id": "SG-01-02",
+          "price": "60.00 GBP",
+          "in_stock": "2",
+          "color": "green bright color",
+          "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6327f789e2aa01ca7db898df/0x0.png"
+        },
+        {
+          "id": "SG-01-03",
+          "price": "78.00 GBP",
+          "in_stock": "2",
+          "color": "beige & light",
+          "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6327f789e2aa01ca7db898df/0x0.png"
+        }
+      ]
+    }
+  ]
+}
