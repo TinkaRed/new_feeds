@@ -1,0 +1,51 @@
+{
+  "title": "enrichmentFull",
+  "link": "https://enrichmentFull.io/",
+  "description": "enrichmentFull",
+  "products": [
+    {
+      "id": "EF-01",
+      "title": "enrichmentFull with sizeGuide, clothing_specs, technical_specs",
+      "description": "enrichmentFull with sizeGuide, clothing_specs, technical_specs description",
+      "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6327f789e2aa01ca7db898df/0x0.png",
+      "brand": "testBrand",
+      "size_guide": [
+        { "product_size": "M" },
+        { "product_size": "L" },
+        { "product_size": "XL" }
+      ],
+      "clothing_specs": {
+        "length_M": "100 inch",
+        "length_L": "150 inch",
+        "length_XL": "200 inch"
+      },
+      "technical_specs": {
+        "frame_material": "Aluminum",
+        "brakes": "Hydraulic Disc"
+      },
+      "variants": [
+        {
+          "id": "SG-01-01",
+          "price": "45.00 GBP",
+          "in_stock": "2",
+          "color": "red",
+          "sku": "EF-01-red",
+        },
+        {
+          "id": "SG-01-02",
+          "price": "60.00 GBP",
+          "in_stock": "2",
+          "color": "green bright color",
+          "sku": "EF-01-greenBrightColor",
+        },
+        {
+          "id": "SG-01-03",
+          "price": "78.00 GBP",
+          "in_stock": "2",
+          "color": "beige & light",
+          "sku": "EF-01-beige&light",
+        }
+      ]
+    }
+  ]
+}
