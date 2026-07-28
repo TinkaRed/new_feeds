@@ -14,8 +14,8 @@
     <g:image>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxm_mDqmiwNEiHFGW-L9fng4ZC5cW-9N5IZQCIwu0fng&s</g:image>
     <g:sku>sku-redColor</g:sku>
     <g:size_guide>[{"product_size":"xmlM"},{"product_size":"L"},{"product_size":"XL"}]</g:size_guide>
-    <g:technical_specs>[{"frame_material":"xmlAluminum"},{"brakes":"xmlHydraulic Disc"}}]</g:technical_specs>
-    <g:clothing_specs>[{"length_M":"xml100 inch"},{"length_L":"xml150 inch"}}]</g:clothing_specs>
+    <g:technical_specs>[{"frame_material":"xmlAluminum"},{"brakes":"xmlHydraulic Disc"}]</g:technical_specs>
+    <g:clothing_specs>[{"length_M":"xml100 inch"},{"length_L":"xml150 inch"}]</g:clothing_specs>
   </item>
 
   <item>
