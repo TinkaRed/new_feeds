@@ -9,6 +9,7 @@
       "description": "product with sizeGuide, clothing_specs, technical_specs description. Product from json feed with variants",
       "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/6327f789e2aa01ca7db898df/0x0.png",
       "brand": "testBrand",
+      "sku": "xml-sku",
       "size_guide": [
         { "product_size": "M" },
         { "product_size": "L" },
