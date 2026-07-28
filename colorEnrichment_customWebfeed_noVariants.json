@@ -9,19 +9,19 @@
     "Color": "red",
     "sku": "red-noVarJson-sku",
     "size_guide": [
-        { "product_size": "jsonNoVarM" },
-        { "product_size": "L" },
-        { "product_size": "XL" }
-      ],
-      "clothing_specs": {
-        "length_M": "jsonNoVar100 inch",
-        "length_L": "150 inch",
-        "length_XL": "200 inch"
-      },
-      "technical_specs": {
-        "frame_material": "jsonNoVarAluminum",
-        "brakes": "Hydraulic Disc"
-      },
+      { "product_size": "jsonNoVarM" },
+      { "product_size": "L" },
+      { "product_size": "XL" }
+    ],
+    "clothing_specs": {
+      "length_M": "jsonNoVar100 inch",
+      "length_L": "150 inch",
+      "length_XL": "200 inch"
+    },
+    "technical_specs": {
+      "frame_material": "jsonNoVarAluminum",
+      "brakes": "Hydraulic Disc"
+    }
   },
   {
     "id": "TEST-023",
@@ -68,7 +68,7 @@
     "Available": "2",
     "Color": "II*(*(9900"
   },
-    {
+  {
     "id": "TEST-073",
     "Product Name": "test color Compact Alloy Bicycle Pump S-100",
     "Description": "test Compact Alloy Bicycle Pump S-100 description",
