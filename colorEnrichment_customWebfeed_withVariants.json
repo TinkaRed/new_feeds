@@ -8,13 +8,29 @@
       "title": "test color Mountain Bike Trail Pro",
       "description": "test Mountain Bike Trail Pro description",
       "brand": "test brand",
+      "size_guide": [
+        { "product_size": "jsonVarM" },
+        { "product_size": "L" },
+        { "product_size": "XL" }
+      ],
+      "clothing_specs": {
+        "length_M": "jsonVar100 inch",
+        "length_L": "150 inch",
+        "length_XL": "200 inch"
+      },
+      "technical_specs": {
+        "frame_material": "jsonVarAluminum",
+        "brakes": "Hydraulic Disc"
+      },
       "variants": [
         {
           "id": "CC-011-V1",
           "price": "45.00 GBP",
           "in_stock": "2",
           "compare_price": "355.00 GBP",
-          "color": "red"
+          "color": "red",
+          "sku": "red-sku",
+          "image": "https://eu4dual.education/wp-content/uploads/2025/10/test-1742552798284-2.jpg"
         },
         {
           "id": "CC-011-V2",
