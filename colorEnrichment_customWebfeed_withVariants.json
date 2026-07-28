@@ -6,7 +6,7 @@
     {
       "id": "CC-011",
       "title": "test color Mountain Bike Trail Pro",
-      "description": "test Mountain Bike Trail Pro description",
+      "description": "",
       "brand": "test brand",
       "size_guide": [
         { "product_size": "jsonVarM" },
