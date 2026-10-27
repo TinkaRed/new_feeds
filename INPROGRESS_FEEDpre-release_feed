@@ -17,35 +17,35 @@
           "color": "brompton blue"
         },
         {
-          "id": "AA-02"
+          "id": "AA-02",
           "price": "45.00 GBP",
           "in_stock": "Yes",
           "compare_price": "355.00 GBP",
           "color": "newcolor27.10"
         },
         {
-          "id": "AA-03"
+          "id": "AA-03",
           "price": "60.00 GBP",
           "in_stock": "y",
           "compare_price": "0.00 GBP",
           "color": "GGGGGGGG"
         },
         {
-          "id": "AA-04"
+          "id": "AA-04",
           "price": "73.00 GBP",
           "in_stock": "Y",
           "compare_price": "",
           "color": "black&29"
         },
         {
-          "id": "AA-05"
+          "id": "AA-05",
           "price": "71.00 GBP",
           "in_stock": "in stock",
           "compare_price": "",
           "color": "black & pepper"
         },
         {
-          "id": "AA-06"
+          "id": "AA-06",
           "price": "72.00 GBP",
           "in_stock": "available",
           "compare_price": "",
