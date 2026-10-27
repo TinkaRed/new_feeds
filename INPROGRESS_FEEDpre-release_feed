@@ -12,42 +12,42 @@
         {
           "id": "AA-01",
           "price": "48.00 GBP",
-          "in_stock": "inStock",
+          "in_stock": "yes",
           "compare_price": "30.00 GBP",
           "color": "brompton blue"
         },
         {
           "id": "AA-02"
           "price": "45.00 GBP",
-          "in_stock": "2",
+          "in_stock": "Yes",
           "compare_price": "355.00 GBP",
           "color": "newcolor27.10"
         },
         {
           "id": "AA-03"
           "price": "60.00 GBP",
-          "in_stock": "2",
+          "in_stock": "y",
           "compare_price": "0.00 GBP",
           "color": "GGGGGGGG"
         },
         {
           "id": "AA-04"
           "price": "73.00 GBP",
-          "in_stock": "2",
+          "in_stock": "Y",
           "compare_price": "",
           "color": "black&29"
         },
         {
           "id": "AA-05"
           "price": "71.00 GBP",
-          "in_stock": "2",
+          "in_stock": "in stock",
           "compare_price": "",
           "color": "black & pepper"
         },
         {
           "id": "AA-06"
           "price": "72.00 GBP",
-          "in_stock": "2",
+          "in_stock": "available",
           "compare_price": "",
           "color": ""
         }
@@ -63,21 +63,112 @@
           "id": "AB - 01",
           "price": "90.00 GBP",
           "compare_price": "90.00 GBP",
-          "in_stock": "2",
+          "in_stock": "unavailable",
           "color": "red"
         },
         {
-          "id": "CC-02-V2",
+          "id": "AB - 02",
           "price": "400.00 GBP",
           "compare_price": "600.00 GBP",
-          "in_stock": "2",
+          "in_stock": "not available",
           "color": "111111"
         },
         {
-          "id": "CC-02-V3",
+          "id": "AB - 03",
           "price": "500.00 GBP",
           "compare_price": "600.00 GBP",
-          "in_stock": "2",
+          "in_stock": "no",
+          "color": ""
+        },
+        {
+          "id": "AB - 04",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "No",
+          "color": ""
+        },
+        {
+          "id": "AB - 05",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "n",
+          "color": ""
+        },
+       {
+          "id": "AB - 06",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "N",
+          "color": ""
+        },
+        {
+          "id": "AB - 07",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "out of stock",
+          "color": ""
+        },
+        {
+          "id": "AB - 08",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "FALSE",
+          "color": ""
+        },
+        {
+          "id": "AB - 09",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "TRUE",
+          "color": ""
+        },
+        {
+          "id": "AB - 10",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "",
+          "color": ""
+        },
+        {
+          "id": "AB - 11",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": " no",
+          "color": ""
+        },
+        {
+          "id": "AB - 12",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": "no ",
+          "color": ""
+        },
+      {
+          "id": "AB - 13",
+          "price": "500.00 GBP",
+          "compare_price": "600.00 GBP",
+          "in_stock": " no ",
+          "color": ""
+        },
+        {
+          "id": "AB - 14",
+          "price": "14.00 GBP",
+          "compare_price": "14.00 GBP",
+          "in_stock": " yes",
+          "color": ""
+        },
+        {
+          "id": "AB - 15",
+          "price": "15.00 GBP",
+          "compare_price": "15.00 GBP",
+          "in_stock": "yes ",
+          "color": ""
+        },
+        {
+          "id": "AB - 16",
+          "price": "16.00 GBP",
+          "compare_price": "16.00 GBP",
+          "in_stock": " yes ",
           "color": ""
         }
       ]
