@@ -5,13 +5,13 @@
   "products": [
     {
       "id": "CC-01",
-      "title": "test pre-release quantity - inStock/, existing color/newColor/invalidColor/&Color",
+      "title": "test pre-release colorEnrichment - existing color/newColor/invalidColor/&Color/blankColor",
       "description": "test pre-release quantity - inStock description",
       "brand": "test brand",
       "variants": [
         {
           "id": "AA-01",
-          "price": "45.00 GBP",
+          "price": "48.00 GBP",
           "in_stock": "inStock",
           "compare_price": "30.00 GBP",
           "color": "brompton blue"
@@ -21,36 +21,50 @@
           "price": "45.00 GBP",
           "in_stock": "2",
           "compare_price": "355.00 GBP",
-          "color": "newcolor"
+          "color": "newcolor27.10"
         },
         {
           "id": "AA-03"
           "price": "60.00 GBP",
           "in_stock": "2",
           "compare_price": "0.00 GBP",
-          "color": "new & nice"
+          "color": "GGGGGGGG"
         },
         {
           "id": "AA-04"
-          "price": "78.00 GBP",
+          "price": "73.00 GBP",
           "in_stock": "2",
           "compare_price": "",
-          "color": "black&nice"
+          "color": "black&29"
+        },
+        {
+          "id": "AA-05"
+          "price": "71.00 GBP",
+          "in_stock": "2",
+          "compare_price": "",
+          "color": "black & pepper"
+        },
+        {
+          "id": "AA-06"
+          "price": "72.00 GBP",
+          "in_stock": "2",
+          "compare_price": "",
+          "color": ""
         }
       ]
     },
     {
       "id": "CC-02",
-      "title": "test Urban City Commuter Bike",
-      "description": "test Urban City Commuter Bike description",
+      "title": "test pre-release - text to quantity",
+      "description": "test pre-release - text to quantity",
       "brand": "test brand",
       "variants": [
         {
-          "id": "CC-02-V1",
+          "id": "AB - 01",
           "price": "90.00 GBP",
           "compare_price": "90.00 GBP",
           "in_stock": "2",
-          "color": "323&56"
+          "color": "red"
         },
         {
           "id": "CC-02-V2",
