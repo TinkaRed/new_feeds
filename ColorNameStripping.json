@@ -1,0 +1,78 @@
+{
+  "title": "ColorNameStripping.json",
+  "link": "https://SimplifyColorNameStripping.json/",
+  "description": "SimplifyColorNameStripping.json",
+  "products": [
+    {
+      "id": "TEST-09",
+      "title": "Quantum Wheel Motion Lab in red",
+      "description": "Quantum Wheel Motion Lab in red description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-09-V1",
+          "price": "125.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Small"
+        },
+        {
+          "id": "TEST-09-V2",
+          "price": "130.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Medium"
+        },
+        {
+          "id": "TEST-09-V3",
+          "price": "135.00 GBP",
+          "in_stock": "2",
+          "compare_price": "200.00 GBP",
+          "size": "Large"
+        }
+      ]
+    },
+    {
+      "id": "TEST-10",
+      "title": "Urban Echo Bike System in purple bright",
+      "description": "Urban Echo Bike System in purple bright description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-10-V1",
+          "price": "400.00 GBP",
+          "in_stock": "2",
+          "color": "red"
+        },
+        {
+          "id": "TEST-10-V2",
+          "price": "500.00 GBP",
+          "in_stock": "2",
+          "color": "white"
+        }
+      ]
+    },
+    {
+      "id": "TEST-11",
+      "title": "Steel Horizon Ride Factory in super red starlight",
+      "description": "Steel Horizon Ride Factory in super red starlight description",
+      "brand": "test brand",
+      "variants": [
+        {
+          "id": "TEST-11-V1",
+          "price": "400.00 GBP",
+          "in_stock": "2",
+          "color": "red",
+          "size": "Large"
+        },
+        {
+          "id": "TEST-11-V2",
+          "price": "500.00 GBP",
+          "in_stock": "2",
+          "color": "white",
+          "size": "Large"
+        }
+      ]
+    }
+  ]
+}
