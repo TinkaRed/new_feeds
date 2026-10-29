@@ -120,7 +120,7 @@
           "price": "500.00 GBP",
           "compare_price": "600.00 GBP",
           "in_stock": "TRUE",
-          "color": ""
+          "color": "blue"
         },
         {
           "id": "AB - 10",
