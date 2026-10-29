@@ -166,9 +166,9 @@
         },
         {
           "id": "AB - 16",
-          "price": "16.00 GBP",
-          "compare_price": "16.00 GBP",
-          "in_stock": " yes ",
+          "price": "900.00 GBP",
+          "compare_price": "950.00 GBP",
+          "in_stock": "true",
           "color": ""
         }
       ]
