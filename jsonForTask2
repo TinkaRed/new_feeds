@@ -1,0 +1,36 @@
+{
+  "title": "1GP_customWebfeed_WITH_VARIANTS",
+  "link": "https://www.testme25656.co.uk/",
+  "description": "1GP_customWebfeed_WITH_VARIANTS",
+  "products": [
+    {
+      "id": "PRD-78451-XT",
+      "title": "Ribble Ultra-Aero SL R - Hero",
+      "description": "Ribble Ultra-Aero SL R - Hero - description",
+      "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
+      "variants": [
+        {
+          "id": "VAR-99102-AA",
+          "brand": "Chain brand",
+          "rrp": 1429,
+          "price": 1429,
+          "in_stock": 1
+        },
+        {
+          "id": "VAR-99103-BB",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": 2
+        },
+        {
+          "id": "VAR-99104-CC",
+          "brand": "Chain brand",
+          "rrp": 2229,
+          "price": 2229,
+          "in_stock": 3
+        }
+      ]
+    }
+  ]
+}
