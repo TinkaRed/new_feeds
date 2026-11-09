@@ -11,6 +11,7 @@
     "Product Color": "Midnight Black",
     "Price": "1240 GBP",
     "ComparePrice": "2900 GBP",
+    "quantity": "3",
     "size_guide": [
       {
         "frame_size": "S",
@@ -46,6 +47,7 @@
     "Product Color": "Steel Grey",
     "Price": "189 GBP",
     "ComparePrice": "300 GBP",
+    "quantity": "3",
     "size_guide": [
       {
         "frame_size": "S",
