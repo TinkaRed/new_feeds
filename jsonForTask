@@ -34,5 +34,41 @@
         "rider_height_ft": "6'1\" - 6'4\""
       }
     ]
+  },
+  {
+    "id": "UR56",
+    "Product ID": "PQ56",
+    "Product Name": "test9/11 CycleGuard Helmet AeroTech",
+    "Product Brand": "GearMaster",
+    "Product URL": "https://www.cycleshopworld.com/product/titanforge-360-stand",
+    "Description": "CycleGuard Helmet AeroTech grade bike repair stand with 360 degree rotating clamp and reinforced steel base",
+    "Image URLs": "https://mirider.co.uk/wp-content/uploads/2020/12/MiRider-Accessories-Dec-3-650x650.jpg",
+    "Category": "Workshop Equipment",
+    "Product Color": "Steel Grey",
+    "Price": "189 GBP",
+    "ComparePrice": "300 GBP",
+    "quantity": "3",
+    "size_guide": [
+      {
+        "frame_size": "S",
+        "rider_height_cm": "158 – 165",
+        "rider_height_ft": "5'1\" - 5'5\""
+      },
+      {
+        "frame_size": "M",
+        "rider_height_cm": "165 – 178",
+        "rider_height_ft": "5'5\" - 5'10\""
+      },
+      {
+        "frame_size": "L",
+        "rider_height_cm": "178-185",
+        "rider_height_ft": "5'10\" - 6'1\""
+      },
+      {
+        "frame_size": "XL",
+        "rider_height_cm": "185 - 193",
+        "rider_height_ft": "6'1\" - 6'4\""
+      }
+    ]
   }
 ]
