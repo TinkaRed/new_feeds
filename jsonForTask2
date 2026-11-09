@@ -17,13 +17,6 @@
           "in_stock": 1
         },
         {
-          "id": "VAR2",
-          "brand": "Chain brand",
-          "price": 25.00,
-          "size": "M",
-          "in_stock": 2
-        },
-        {
           "id": "VAR3",
           "brand": "Chain brand",
           "price": 50.00,
