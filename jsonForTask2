@@ -5,7 +5,7 @@
   "products": [
     {
       "id": "PR1",
-      "title": "TEST jsonForTask2_WITH_VARIANTS",
+      "title": "10.11_TEST jsonForTask2_WITH_VARIANTS",
       "description": "jsonForTask2_WITH_VARIANTS - description",
       "image_url": "https://checkout.ribblecycles.co.uk/media/catalog/product/a/l/allroad_al_tiagra_1.png",
       "variants": [
@@ -23,7 +23,29 @@
           "size": "L",
           "in_stock": 3
         }
-      ]
+      ],
+      "size_guide": [
+      {
+        "frame_size": "test10/11_S",
+        "rider_height_cm": "158 – 165",
+        "rider_height_ft": "5'1\" - 5'5\""
+      },
+      {
+        "frame_size": "M",
+        "rider_height_cm": "165 – 178",
+        "rider_height_ft": "5'5\" - 5'10\""
+      },
+      {
+        "frame_size": "L",
+        "rider_height_cm": "178-185",
+        "rider_height_ft": "5'10\" - 6'1\""
+      },
+      {
+        "frame_size": "XL",
+        "rider_height_cm": "185 - 193",
+        "rider_height_ft": "6'1\" - 6'4\""
+      }
+    ]
     }
   ]
 }
