@@ -11,10 +11,10 @@
     "Product Color": "Midnight Black",
     "Price": "1240 GBP",
     "ComparePrice": "2900 GBP",
-    "quantity": "0",
+    "quantity": "1",
     "size_guide": [
       {
-        "frame_size": "S",
+        "frame_size": "test9/11_S",
         "rider_height_cm": "158 – 165",
         "rider_height_ft": "5'1\" - 5'5\""
       },
@@ -47,10 +47,10 @@
     "Product Color": "Steel Grey",
     "Price": "189 GBP",
     "ComparePrice": "300 GBP",
-    "quantity": "0",
+    "quantity": "2",
     "size_guide": [
       {
-        "frame_size": "S",
+        "frame_size": "test9/11_S",
         "rider_height_cm": "158 – 165",
         "rider_height_ft": "5'1\" - 5'5\""
       },
